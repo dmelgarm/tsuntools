@@ -1,0 +1,6 @@
+Diego Melgar
+05/2013
+
+These are some tools used to analyze GeoClaw fort.q* tsunami output
+files and fort.gauge files. The tools under /ClawPack are from
+the standard bundle offered with GeoClaw.
